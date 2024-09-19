@@ -15,6 +15,5 @@ Each app contains its own license, see LICENSE file in each app folder for more 
 - **Fruit Ninja**: The classic game, forked from [GetProjectsIdea/Fruit-Ninja-Game-in-Python](https://github.com/GetProjectsIdea/Fruit-Ninja-Game-in-Python). GPL-3 License.
 - **Flappy Bird:**: The classic game, forked from [LeonMarqs/Flappy-bird-python](https://github.com/LeonMarqs/Flappy-bird-python). MIT License.
 
-## Chrome Apps
-- **Dino:** A link to Chrome's Dino game
+## Chromium Links
 - **Code Monkey:** A link to Code Monkey's website

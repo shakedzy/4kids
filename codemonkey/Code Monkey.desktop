@@ -3,7 +3,7 @@ Version=1.0
 Type=Application
 Name=Code Monkey
 Comment=Open Code Monkey in Chrome
-Exec=google-chrome-stable --app=https://app.codemonkey.com/courses
+Exec=chromium-browser https://app.codemonkey.com/courses
 Icon=/path/to/icon.png
 Terminal=false
 Categories=Network;WebBrowser;
