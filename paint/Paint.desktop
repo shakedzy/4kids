@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Paint
+Comment=A simple paint application for kids
+Exec=python3 %k/paint.py
+Icon=%k/icon.svg
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;

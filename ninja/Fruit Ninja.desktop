@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Fruit Ninja
+Comment=Fruit Ninja
+Exec=python3 %k/ninja.py
+Icon=%k/icon.png
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;`

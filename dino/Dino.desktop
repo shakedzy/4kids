@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dino
+Comment=Open Chrome's Dino game
+Exec=google-chrome-stable --app=chrome://dino
+Icon=/path/to/icon.png
+Terminal=false
+Categories=Network;WebBrowser;

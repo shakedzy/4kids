@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Flappy Bird
+Comment=Flappy Bird
+Exec=python3 %k/flappy.py
+Icon=%k/icon.png
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;`
